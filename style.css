@@ -1,3 +1,40 @@
-*{
-    
+/* reset dos estilos */
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    font-family: sans-serif;
+    font-size: 14px;
+}
+
+/* estilo do corpo geral da pagina */
+body {
+    width: 100%;
+    min-height: 100vh;
+    background-color: rgb(243, 243, 243);
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+}
+
+/* container pai (todo conteudo no centro) */
+.instagram-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center; /*testar com start*/
+    width: 60%; /* 60% do valor do body*/
+    height: 100vh;
+}
+
+.instagram-phone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 50%;
+}
+
+.instagram-phone img {
+    height: 50rem;
 }
