@@ -4,3 +4,4 @@
 - populada a tela inicial com todos os elementos necessários
 - estilização inicial da tela. Todos os elementos ao centro
 - ajuste dos itens dos containers do lado direito
+- estilizar links e adicionar botões
