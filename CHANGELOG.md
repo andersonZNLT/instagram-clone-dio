@@ -1,2 +1,3 @@
 ## 1.0.0 / 14/06/2022
 - primeiro commit
+- adicionado imagens usadas na pagina, inicialização do index
