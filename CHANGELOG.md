@@ -5,3 +5,4 @@
 - estilização inicial da tela. Todos os elementos ao centro
 - ajuste dos itens dos containers do lado direito
 - estilizar links e adicionar botões
+- correção de erros na interface

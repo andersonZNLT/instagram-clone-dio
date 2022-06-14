@@ -40,13 +40,13 @@ body {
 }
 
 /* container direito o sentido deve ser coluna */
-.instagram-login {
+.instagram-continue {
     display: flex;
     align-items: center;
     justify-content: space-around;
     flex-direction: column;
     width: 50%;
-    min-height: 15rem;
+    min-height: 34rem;
 }
 
 .group {
