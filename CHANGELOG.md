@@ -7,3 +7,4 @@
 - estilizar links e adicionar botões
 - correção de erros na interface
 - estilização do grupo get-the-app
+- resposividade da página
