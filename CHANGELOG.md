@@ -8,3 +8,4 @@
 - correção de erros na interface
 - estilização do grupo get-the-app
 - resposividade da página
+- adicionados links originais nos botões das lojas de apps
